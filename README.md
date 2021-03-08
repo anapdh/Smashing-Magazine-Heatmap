@@ -40,8 +40,8 @@
 👩‍💻 **Ana Paula Hübner**
 
 - GitHub: [@anapdh](https://github.com/anapdh)
-- Twitter: [@anapdh](https://twitter.com/anapdh)
-- LinkedIn: [Ana Paula Hübner](https://www.linkedin.com/in/ana-paula-h%C3%BCbner-7a9484181/)
+- Twitter: [@dev_anahub](https://twitter.com/dev_anahub)
+- LinkedIn: [Ana Paula Hübner](https://www.linkedin.com/in/anapdh)
 
 👨‍💻 **Breno Xavier**
 
